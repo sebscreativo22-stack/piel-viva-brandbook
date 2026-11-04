@@ -4,7 +4,7 @@
 Identidad visual para Piel Viva SAS, importadora de café verde de especialidad colombiano con sede en París.
 
 🔗 **Ver el brandbook:** abre `index.html` o el enlace publicado en Cloudflare Pages.
-Se navega con las flechas del teclado, con clic a izquierda y derecha, o deslizando en el móvil.
+En computador se navega con las flechas del teclado o con clic a izquierda y derecha. En el móvil se lee como una página con scroll.
 
 ![Portada](docs/slides/slide-01.jpg)
 
