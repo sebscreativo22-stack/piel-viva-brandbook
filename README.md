@@ -72,7 +72,7 @@ El logo original era una imagen rasterizada. Se reconstruyó como **vector real*
 ![Geometría](docs/slides/slide-05.jpg)
 
 ### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Pinyon Script**, una caligrafía formal inclinada con trazos finos y gruesos, en la línea del logotipo de Loro Piana. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
+Wordmark, lockup vertical y lockup horizontal. «PIEL VIVA» va en **Bodoni Moda**, una Didone de alto contraste en mayúsculas espaciadas: el lujo sobrio de las casas como Loro Piana, con buena legibilidad en tamaños pequeños. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
 
 ![Declinaciones](docs/slides/slide-06.jpg)
 
@@ -185,7 +185,7 @@ Packaging de café y tarjetas de presentación.
 ## Créditos
 - **Diseño de identidad y brandbook:** Sebastián Londoño.
 - **Cliente:** Piel Viva SAS. Mónica y Cielo.
-- **Tipografías:** Gestura (versión de prueba), Pinyon Script y Jost (SIL Open Font License).
+- **Tipografías:** Gestura (versión de prueba), Bodoni Moda y Jost (SIL Open Font License).
 - **Imágenes de textura:** generadas con IA como textura y atmósfera, no como registro de fincas o personas reales.
 
 ---
