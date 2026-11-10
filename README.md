@@ -72,7 +72,7 @@ El logo original era una imagen rasterizada. Se reconstruyó como **vector real*
 ![Geometría](docs/slides/slide-05.jpg)
 
 ### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
+Wordmark, lockup vertical y lockup horizontal. «PIEL VIVA» va en **Bodoni Moda**, una Didone de alto contraste en mayúsculas espaciadas, con la sobriedad de las casas de lujo como Loro Piana. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
 
 ![Declinaciones](docs/slides/slide-06.jpg)
 
@@ -110,7 +110,7 @@ Wordmark, lockup vertical y lockup horizontal. La línea «Colombian Specialty C
 | Ancla | Crema | `#F1E8C7` | Siempre presente |
 | Soporte | Oliva | `#7C7C40` | Apoyo |
 | Soporte | Caramelo | `#A8764F` | Apoyo |
-| Acento | Cereza | `#A63A32` | Un solo punto por pieza |
+| Acento | Burdeos | `#5B1D2A` | Un solo punto por pieza |
 | Foil | Oro | `#D4AF37` | Detalle de lujo, solo sobre fondos oscuros (≥ 6:1) |
 
 ![Paleta](docs/slides/slide-12.jpg)
@@ -122,7 +122,7 @@ Cada color sale de una parte del proceso, de la finca al tejido:
 - **Crema:** la crema del espresso.
 - **Oliva:** la hoja viva del cafeto.
 - **Caramelo:** el tueste y la piel.
-- **Cereza:** el fruto maduro.
+- **Burdeos:** el fruto maduro.
 - **Oro:** el hilo dorado.
 
 ![Por qué estos colores](docs/slides/slide-13.jpg)
@@ -132,7 +132,7 @@ Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el m
 
 | Línea | Oscuro | Acento | Claro |
 |---|---|---|---|
-| Origen · café verde | Bosque `#232B17` | Cereza `#A63A32` | Crema `#F1E8C7` |
+| Origen · café verde | Bosque `#232B17` | Burdeos `#5B1D2A` | Crema `#F1E8C7` |
 | Tueste · café tostado | Espresso `#2B1D16` | Cobre `#9D5421` | `#F8E4D4` |
 | Fibra · bio-textil | Burdeos `#5B1D2A` | Rubor `#945461` | Rosa `#FDE3E6` |
 | Reserva · microlotes | Tinta `#1E2B5A` | Azul piedra `#4C6988` | `#DEE8FD` |
@@ -172,7 +172,7 @@ Packaging de café y tarjetas de presentación.
 
 1. **Análisis del brief y de las referencias:** Topia Coffee, Nía, Neroli House y Hechizoo.
 2. **Vectorización del logo:** reconstrucción del símbolo y del wordmark como vector limpio.
-3. **Sistema de color:** tres propuestas, de las que se eligió Bosque & Cereza. Después, jerarquía, contraste medido (WCAG) y mundos de producto.
+3. **Sistema de color:** tres propuestas, de las que se eligió Bosque & Cereza, con el acento cambiado después a Burdeos para un tono más sobrio. Después, jerarquía, contraste medido (WCAG) y mundos de producto.
 4. **Texturas y fotografía:** dirección inspirada en el textil artesanal colombiano e imágenes generadas como textura y atmósfera.
 5. **Tipografía:** Gestura con Jost, y jerarquía tipo design system.
 6. **Brandbook:** presentación HTML 16:9 con un diseño visual primero y el texto justo.
@@ -185,7 +185,7 @@ Packaging de café y tarjetas de presentación.
 ## Créditos
 - **Diseño de identidad y brandbook:** Sebastián Londoño.
 - **Cliente:** Piel Viva SAS. Mónica y Cielo.
-- **Tipografías:** Gestura (versión de prueba) y Jost (SIL Open Font License).
+- **Tipografías:** Gestura (versión de prueba), Bodoni Moda y Jost (SIL Open Font License).
 - **Imágenes de textura:** generadas con IA como textura y atmósfera, no como registro de fincas o personas reales.
 
 ---
