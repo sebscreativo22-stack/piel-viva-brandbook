@@ -18,7 +18,7 @@ En computador se navega con las flechas del teclado o con clic a izquierda y der
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Presentación HTML de 19 slides, 16:9, autocontenida |
+| **Formato** | Presentación HTML de 20 slides, 16:9, autocontenida |
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
@@ -72,7 +72,7 @@ El logo original era una imagen rasterizada. Se reconstruyó como **vector real*
 ![Geometría](docs/slides/slide-05.jpg)
 
 ### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. «PIEL VIVA» va en **Bodoni Moda**, una Didone de alto contraste en mayúsculas espaciadas: el lujo sobrio de las casas como Loro Piana, con buena legibilidad en tamaños pequeños. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
+Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda cursiva**, una Didone de alto contraste: tiene la elegancia caligráfica de casas como Loro Piana, pero se lee con claridad incluso en tamaños pequeños. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
 
 ![Declinaciones](docs/slides/slide-06.jpg)
 
@@ -156,15 +156,19 @@ Las fincas, los productores y los lotes concretos se muestran siempre con fotogr
 
 ![Texturas](docs/slides/slide-15.jpg)
 
+**La piel del café.** Del residuo al material: la cáscara convertida en piel, con su grano, su costura y su pátina.
+
+![La piel del café](docs/slides/slide-16.jpg)
+
 ---
 
 ## Aplicaciones
 
 Packaging de café y tarjetas de presentación.
 
-![Aplicaciones](docs/slides/slide-18.jpg)
+![Aplicaciones](docs/slides/slide-19.jpg)
 
-![Cierre](docs/slides/slide-19.jpg)
+![Cierre](docs/slides/slide-20.jpg)
 
 ---
 
