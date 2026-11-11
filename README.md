@@ -18,7 +18,7 @@ En computador se navega con las flechas del teclado o con clic a izquierda y der
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Presentación HTML de 20 slides, 16:9, autocontenida |
+| **Formato** | Presentación HTML de 22 slides, 16:9, autocontenida |
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
@@ -42,6 +42,21 @@ La identidad entera se construye sobre el **tejido hecho a mano**. El tejido es 
 
 ---
 
+## La historia
+
+Piel Viva cuenta su origen en cuatro capítulos, y el brandbook se lee en ese orden:
+
+1. **Memoria.** Tejer es guardar memoria: el tejido ya era un lenguaje antes de la llegada de los europeos y estuvo ligado a las manos de las mujeres.
+2. **Residuo.** Lo que otros desechan, nosotras lo transformamos. El café deja millones de toneladas de cáscara al año, y casi toda se desecha o se quema.
+3. **Transformación.** La cáscara vuelve como material: **fibra, tejido, piel y papel**. El concepto no es solo tela de café, sino materiales hechos de café.
+4. **Esencia.** Un Creador con alma de Cuidador convierte el residuo en material, y esa personalidad ordena el logo, el color y la tipografía.
+
+![Residuo](docs/slides/slide-03.jpg)
+
+![Materiales hechos de café](docs/slides/slide-04.jpg)
+
+> Las imágenes de materiales (tejido, piel, papel) se generaron con IA para ilustrar el concepto. La piel y el papel de cáscara son una idea del proyecto, todavía en fase de I+D, no productos existentes.
+
 ## Personalidad
 
 **El Creador, con alma de Cuidador.**
@@ -51,7 +66,7 @@ La identidad entera se construye sobre el **tejido hecho a mano**. El tejido es 
 
 Eso se traduce en un color de tierra y fibra, una textura de tejido a mano, fotografía en close shot con luz cálida, y una voz sensorial en francés, cálida en español y experta en inglés.
 
-![Personalidad](docs/slides/slide-03.jpg)
+![Personalidad](docs/slides/slide-05.jpg)
 
 ---
 
@@ -62,19 +77,19 @@ Un grano de café trazado en **líneas continuas que se cruzan como un tejido**.
 
 El logo original era una imagen rasterizada. Se reconstruyó como **vector real**: curvas Bézier suaves, un grosor de trazo uniforme y granos reflejados con simetría exacta.
 
-![Símbolo](docs/slides/slide-04.jpg)
+![Símbolo](docs/slides/slide-06.jpg)
 
 ### Geometría y zona de respeto
 - Sus curvas son continuas y simétricas sobre un eje vertical. Al medirlas, encajan en **círculos de proporción áurea**, cada uno 1,618 veces menor que el anterior.
 - **Zona de respeto:** un margen libre del tamaño de una pepita de café (x) en los cuatro lados. La marca se mide con su propio origen.
 - **Tamaños mínimos:** símbolo de 32 px y wordmark de 140 px.
 
-![Geometría](docs/slides/slide-05.jpg)
+![Geometría](docs/slides/slide-07.jpg)
 
 ### Declinaciones
 Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda cursiva**, una Didone de alto contraste: tiene la elegancia caligráfica de casas como Loro Piana, pero se lee con claridad incluso en tamaños pequeños. Su tamaño se calibró para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos: se midió la masa de tinta de cada uno y se equilibraron por proporción, sin engrosar la tipografía. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
 
-![Declinaciones](docs/slides/slide-06.jpg)
+![Declinaciones](docs/slides/slide-08.jpg)
 
 ---
 
@@ -85,7 +100,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda
 | **Gestura** (serif) | Titulares y textos | Cortes rectos y terminaciones elegantes, con pesos de Thin a Black. Sostiene el lujo silencioso y da jerarquía sin sumar fuentes. |
 | **Jost** (sans) | Etiquetas y datos | Geométrica y equilibrada, limpia. Hace de contrapeso a la serif y se lee bien en tamaños pequeños. |
 
-![Tipografía](docs/slides/slide-10.jpg)
+![Tipografía](docs/slides/slide-12.jpg)
 
 ### Jerarquía
 
@@ -97,7 +112,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda
 | Etiqueta | Jost Medium, mayúsculas, +30 % | 20 px |
 | Dato | Jost Regular | 26 / 32 px |
 
-![Jerarquía tipográfica](docs/slides/slide-11.jpg)
+![Jerarquía tipográfica](docs/slides/slide-13.jpg)
 
 ---
 
@@ -113,7 +128,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda
 | Acento | Burdeos | `#5B1D2A` | Un solo punto por pieza |
 | Foil | Oro | `#D4AF37` | Detalle de lujo, solo sobre fondos oscuros (≥ 6:1) |
 
-![Paleta](docs/slides/slide-12.jpg)
+![Paleta](docs/slides/slide-14.jpg)
 
 ### Por qué estos colores
 Cada color sale de una parte del proceso, de la finca al tejido:
@@ -125,7 +140,7 @@ Cada color sale de una parte del proceso, de la finca al tejido:
 - **Burdeos:** el fruto maduro.
 - **Oro:** el hilo dorado.
 
-![Por qué estos colores](docs/slides/slide-13.jpg)
+![Por qué estos colores](docs/slides/slide-15.jpg)
 
 ### Cómo crece la paleta
 Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el material, va de fondo), **acento** (su historia, en un solo punto) y **claro** (la luz del mismo color). El Ancla (Bosque y Crema) no cambia nunca.
@@ -137,7 +152,7 @@ Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el m
 | Fibra · bio-textil | Burdeos `#5B1D2A` | Rubor `#945461` | Rosa `#FDE3E6` |
 | Reserva · microlotes | Tinta `#1E2B5A` | Azul piedra `#4C6988` | `#DEE8FD` |
 
-![Cómo crece la paleta](docs/slides/slide-14.jpg)
+![Cómo crece la paleta](docs/slides/slide-16.jpg)
 
 ---
 
@@ -154,11 +169,11 @@ Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el m
 
 Las fincas, los productores y los lotes concretos se muestran siempre con fotografía real.
 
-![Texturas](docs/slides/slide-15.jpg)
+![Texturas](docs/slides/slide-17.jpg)
 
 **La piel del café.** Del residuo al material: la cáscara convertida en piel, con su grano, su costura y su pátina.
 
-![La piel del café](docs/slides/slide-16.jpg)
+![La piel del café](docs/slides/slide-18.jpg)
 
 ---
 
@@ -166,11 +181,11 @@ Las fincas, los productores y los lotes concretos se muestran siempre con fotogr
 
 Packaging de café en tres referencias (Caturra de Huila, Geisha del Cauca y Tolima), que muestran cómo la paleta crece por línea: verde, crema y burdeos. Y las tarjetas de presentación.
 
-![Packaging](docs/slides/slide-18.jpg)
+![Packaging](docs/slides/slide-20.jpg)
 
-![Aplicaciones](docs/slides/slide-19.jpg)
+![Aplicaciones](docs/slides/slide-21.jpg)
 
-![Cierre](docs/slides/slide-20.jpg)
+![Cierre](docs/slides/slide-22.jpg)
 
 ---
 
