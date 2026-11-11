@@ -72,7 +72,7 @@ El logo original era una imagen rasterizada. Se reconstruyó como **vector real*
 ![Geometría](docs/slides/slide-05.jpg)
 
 ### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda cursiva**, una Didone de alto contraste: tiene la elegancia caligráfica de casas como Loro Piana, pero se lee con claridad incluso en tamaños pequeños. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
+Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda cursiva**, una Didone de alto contraste: tiene la elegancia caligráfica de casas como Loro Piana, pero se lee con claridad incluso en tamaños pequeños. Su peso (Bold) y su tamaño se calibraron para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
 
 ![Declinaciones](docs/slides/slide-06.jpg)
 
