@@ -87,7 +87,7 @@ El logo original era una imagen rasterizada. Se reconstruyó como **vector real*
 ![Geometría](docs/slides/slide-07.jpg)
 
 ### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Bodoni Moda cursiva**, una Didone de alto contraste: tiene la elegancia caligráfica de casas como Loro Piana, pero se lee con claridad incluso en tamaños pequeños. Su tamaño se calibró para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos: se midió la masa de tinta de cada uno y se equilibraron por proporción, sin engrosar la tipografía. La línea «Colombian Specialty Coffee» va en **Jost**, la sans de la marca.
+Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**, una caligrafía formal con lazos en la P y la V (Google Fonts, licencia OFL), usada tal como la diseña la fuente, sin retoques. Su tamaño se calibró para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos.
 
 ![Declinaciones](docs/slides/slide-08.jpg)
 
@@ -206,7 +206,7 @@ Packaging de café en tres referencias (Caturra de Huila, Geisha del Cauca y Tol
 ## Créditos
 - **Diseño de identidad y brandbook:** Sebastián Londoño.
 - **Cliente:** Piel Viva SAS. Mónica y Cielo.
-- **Tipografías:** Gestura (versión de prueba), Bodoni Moda y Jost (SIL Open Font License).
+- **Tipografías:** Gestura (versión de prueba), Kapakana y Jost (SIL Open Font License).
 - **Imágenes de textura:** generadas con IA como textura y atmósfera, no como registro de fincas o personas reales.
 
 ---
