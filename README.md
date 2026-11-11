@@ -164,7 +164,9 @@ Las fincas, los productores y los lotes concretos se muestran siempre con fotogr
 
 ## Aplicaciones
 
-Packaging de café y tarjetas de presentación.
+Packaging de café en tres referencias (Caturra de Huila, Geisha del Cauca y Tolima), que muestran cómo la paleta crece por línea: verde, crema y burdeos. Y las tarjetas de presentación.
+
+![Packaging](docs/slides/slide-18.jpg)
 
 ![Aplicaciones](docs/slides/slide-19.jpg)
 
