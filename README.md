@@ -18,7 +18,7 @@ En computador se navega con las flechas del teclado o con clic a izquierda y der
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Presentación HTML de 22 slides, 16:9, autocontenida |
+| **Formato** | Presentación HTML de 19 slides, 16:9, autocontenida |
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
@@ -34,28 +34,25 @@ El nombre ya lo contenía:
 
 - **Piel:** la textura del grano y el contacto de la mano con el fruto.
 - **Viva:** el origen, la vida de cada finca.
-- **Circular:** lo que otros desechan, Piel Viva lo transforma, del residuo al bio-textil.
+- **Segunda vida:** del fruto solo viaja el grano; su piel, la cáscara, puede volver como material.
 
-La identidad entera se construye sobre el **tejido hecho a mano**. El tejido es memoria: antes de la llegada de los europeos ya era un lenguaje en los pueblos andinos, estuvo ligado a las manos de las mujeres y nace de una relación íntima con el territorio. Piel Viva, fundada por dos mujeres, toma ese mismo gesto.
-
-![Memoria, mujer y territorio](docs/slides/slide-02.jpg)
+La identidad entera se construye sobre el **tejido hecho a mano**: memoria de los pueblos andinos, oficio de manos de mujer y fibra de la misma tierra del café. Piel Viva, fundada por dos mujeres, toma ese mismo gesto.
 
 ---
 
 ## La historia
 
-Piel Viva cuenta su origen en cuatro capítulos, y el brandbook se lee en ese orden:
+El brandbook se lee como un relato corto en tres capítulos, y cada imagen respalda lo que dice el texto:
 
-1. **Memoria.** Tejer es guardar memoria: el tejido ya era un lenguaje antes de la llegada de los europeos y estuvo ligado a las manos de las mujeres.
-2. **Residuo.** Lo que otros desechan, nosotras lo transformamos. El café deja millones de toneladas de cáscara al año, y casi toda se desecha o se quema.
-3. **Transformación.** La cáscara vuelve como material: **fibra, tejido, piel y papel**. El concepto no es solo tela de café, sino materiales hechos de café.
-4. **Esencia.** Un Creador con alma de Cuidador convierte el residuo en material, y esa personalidad ordena el logo, el color y la tipografía.
+1. **Memoria.** *Antes de la palabra, el hilo.* Los pueblos andinos tejieron su historia antes de escribirla, con manos de mujer y fibras de la misma tierra del café. Imagen: el telar.
+2. **El fruto.** *Del fruto, solo viaja el grano.* Su piel, la cáscara, se queda en la tierra y merece otra vida como material noble. Imagen: muestras de piel.
+3. **Esencia.** Un Creador con alma de Cuidador convierte la piel del fruto en hilo, tejido y cuero. Imagen: piel cosida.
 
-![Residuo](docs/slides/slide-03.jpg)
+![Memoria](docs/slides/slide-02.jpg)
 
-![Materiales hechos de café](docs/slides/slide-04.jpg)
+![El fruto](docs/slides/slide-03.jpg)
 
-> Las imágenes de materiales (tejido, piel, papel) se generaron con IA para ilustrar el concepto. La piel y el papel de cáscara son una idea del proyecto, todavía en fase de I+D, no productos existentes.
+> Las imágenes de materiales (tejido, piel) se generaron con IA para ilustrar el concepto. La piel y el papel de cáscara son una idea del proyecto, todavía en fase de I+D, no productos existentes.
 
 ## Personalidad
 
@@ -66,7 +63,7 @@ Piel Viva cuenta su origen en cuatro capítulos, y el brandbook se lee en ese or
 
 Eso se traduce en un color de tierra y fibra, una textura de tejido a mano, fotografía en close shot con luz cálida, y una voz sensorial en francés, cálida en español y experta en inglés.
 
-![Personalidad](docs/slides/slide-05.jpg)
+![Personalidad](docs/slides/slide-04.jpg)
 
 ---
 
@@ -77,19 +74,19 @@ Un grano de café trazado en **líneas continuas que se cruzan como un tejido**.
 
 El logo original era una imagen rasterizada. Se reconstruyó como **vector real**: curvas Bézier suaves, un grosor de trazo uniforme y granos reflejados con simetría exacta.
 
-![Símbolo](docs/slides/slide-06.jpg)
+![Símbolo](docs/slides/slide-05.jpg)
 
 ### Geometría y zona de respeto
 - Sus curvas son continuas y simétricas sobre un eje vertical. Al medirlas, encajan en **círculos de proporción áurea**, cada uno 1,618 veces menor que el anterior.
 - **Zona de respeto:** un margen libre del tamaño de una pepita de café (x) en los cuatro lados. La marca se mide con su propio origen.
 - **Tamaños mínimos:** símbolo de 32 px y wordmark de 140 px.
 
-![Geometría](docs/slides/slide-07.jpg)
+![Geometría](docs/slides/slide-06.jpg)
 
 ### Declinaciones
 Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**, una caligrafía formal con lazos en la P y la V (Google Fonts, licencia OFL), usada tal como la diseña la fuente, sin retoques. Su tamaño se calibró para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos.
 
-![Declinaciones](docs/slides/slide-08.jpg)
+![Declinaciones](docs/slides/slide-07.jpg)
 
 ---
 
@@ -100,7 +97,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**,
 | **Gestura** (serif) | Titulares y textos | Cortes rectos y terminaciones elegantes, con pesos de Thin a Black. Sostiene el lujo silencioso y da jerarquía sin sumar fuentes. |
 | **Jost** (sans) | Etiquetas y datos | Geométrica y equilibrada, limpia. Hace de contrapeso a la serif y se lee bien en tamaños pequeños. |
 
-![Tipografía](docs/slides/slide-12.jpg)
+![Tipografía](docs/slides/slide-11.jpg)
 
 ### Jerarquía
 
@@ -112,7 +109,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**,
 | Etiqueta | Jost Medium, mayúsculas, +30 % | 20 px |
 | Dato | Jost Regular | 26 / 32 px |
 
-![Jerarquía tipográfica](docs/slides/slide-13.jpg)
+![Jerarquía tipográfica](docs/slides/slide-12.jpg)
 
 ---
 
@@ -128,7 +125,7 @@ Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**,
 | Acento | Burdeos | `#5B1D2A` | Un solo punto por pieza |
 | Foil | Oro | `#D4AF37` | Detalle de lujo, solo sobre fondos oscuros (≥ 6:1) |
 
-![Paleta](docs/slides/slide-14.jpg)
+![Paleta](docs/slides/slide-13.jpg)
 
 ### Por qué estos colores
 Cada color sale de una parte del proceso, de la finca al tejido:
@@ -140,7 +137,7 @@ Cada color sale de una parte del proceso, de la finca al tejido:
 - **Burdeos:** el fruto maduro.
 - **Oro:** el hilo dorado.
 
-![Por qué estos colores](docs/slides/slide-15.jpg)
+![Por qué estos colores](docs/slides/slide-14.jpg)
 
 ### Cómo crece la paleta
 Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el material, va de fondo), **acento** (su historia, en un solo punto) y **claro** (la luz del mismo color). El Ancla (Bosque y Crema) no cambia nunca.
@@ -152,7 +149,7 @@ Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el m
 | Fibra · bio-textil | Burdeos `#5B1D2A` | Rubor `#945461` | Rosa `#FDE3E6` |
 | Reserva · microlotes | Tinta `#1E2B5A` | Azul piedra `#4C6988` | `#DEE8FD` |
 
-![Cómo crece la paleta](docs/slides/slide-16.jpg)
+![Cómo crece la paleta](docs/slides/slide-15.jpg)
 
 ---
 
@@ -169,23 +166,19 @@ Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el m
 
 Las fincas, los productores y los lotes concretos se muestran siempre con fotografía real.
 
-![Texturas](docs/slides/slide-17.jpg)
+![Texturas](docs/slides/slide-16.jpg)
 
 **La piel del café.** Del residuo al material: la cáscara convertida en piel, con su grano, su costura y su pátina.
 
-![La piel del café](docs/slides/slide-18.jpg)
+![La piel del café](docs/slides/slide-17.jpg)
 
 ---
 
-## Aplicaciones
+## Cierre
 
-Packaging de café en tres referencias (Caturra de Huila, Geisha del Cauca y Tolima), que muestran cómo la paleta crece por línea: verde, crema y burdeos. Y las tarjetas de presentación.
+Las aplicaciones (packaging y tarjetas) se incorporarán en la siguiente versión, con el logo actualizado.
 
-![Packaging](docs/slides/slide-20.jpg)
-
-![Aplicaciones](docs/slides/slide-21.jpg)
-
-![Cierre](docs/slides/slide-22.jpg)
+![Cierre](docs/slides/slide-19.jpg)
 
 ---
 
