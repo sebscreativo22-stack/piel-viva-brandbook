@@ -18,7 +18,7 @@ Es una presentación, no una página de scroll: cada diapositiva ocupa una panta
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Presentación interactiva (React y GSAP), autocontenida en un solo archivo HTML, con 38 diapositivas
+| **Formato** | Presentación interactiva (React y GSAP), autocontenida en un solo archivo HTML, con 34 diapositivas
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
