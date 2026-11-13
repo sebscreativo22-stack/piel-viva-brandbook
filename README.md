@@ -50,6 +50,8 @@ La web sigue la estructura de una guía de identidad visual, en cinco capítulos
 4. **Identidad visual:** tipografía, color (paleta y especificaciones), textura, fotografía y patrón.
 5. **La marca en uso:** packaging con el logo real.
 
+Entre capítulos hay escenas de fotografía a pantalla completa (telar, piel, hilo, granos y tejido) para que la guía se lea como una historia. El logo sobre textura de tejido o piel es un uso correcto: va en Crema con la línea en Oro sobre las zonas calmadas de la imagen.
+
 ![Índice](docs/slides/indice.jpg)
 
 ![Divisoria de capítulo](docs/slides/divisoria.jpg)
