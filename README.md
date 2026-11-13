@@ -73,6 +73,9 @@ La web sigue la estructura de una guía de identidad visual, en cinco capítulos
 
 ![Color](docs/slides/paleta.jpg)
 
+### La marca en uso
+![Packaging](docs/slides/packaging.jpg)
+
 ---
 
 ## Proceso
