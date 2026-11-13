@@ -40,149 +40,38 @@ La identidad entera se construye sobre el **tejido hecho a mano**: memoria de lo
 
 ---
 
-## La historia
+## Estructura de la guía
 
-El brandbook se lee como un relato corto en tres capítulos, y cada imagen respalda lo que dice el texto:
+La web sigue la estructura de una guía de identidad visual, en cinco capítulos con su página divisoria:
 
-1. **Memoria.** *Antes de la palabra, el hilo.* Los pueblos andinos tejieron su historia antes de escribirla, con manos de mujer y fibras de la misma tierra del café. Imagen: el telar.
-2. **El fruto.** *Del fruto, solo viaja el grano.* Su piel, la cáscara, se queda en la tierra y merece otra vida como material noble. Imagen: muestras de piel.
-3. **Esencia.** Un Creador con alma de Cuidador convierte la piel del fruto en hilo, tejido y cuero. Imagen: piel cosida.
+1. **Introducción:** dirección creativa, memoria, el fruto y esencia (la historia de la marca).
+2. **Sistema de logo:** logomark, wordmark, combinaciones y fondos, geometría y zona de respeto, usos incorrectos.
+3. **Marcas extendidas:** sello circular, perfiles de redes y marcas por línea de producto.
+4. **Identidad visual:** tipografía, color (paleta y especificaciones), textura, fotografía y patrón.
+5. **La marca en uso:** packaging con el logo real.
 
-![Memoria](docs/slides/memoria.jpg)
+![Índice](docs/slides/indice.jpg)
 
-![El fruto](docs/slides/el-fruto.jpg)
+![Divisoria de capítulo](docs/slides/divisoria.jpg)
 
-> Las imágenes de materiales (tejido, piel) se generaron con IA para ilustrar el concepto. La piel y el papel de cáscara son una idea del proyecto, todavía en fase de I+D, no productos existentes.
+### Logo
+![Logomark](docs/slides/logomark.jpg)
 
-## Personalidad
+![Wordmark](docs/slides/wordmark.jpg)
 
-**El Creador, con alma de Cuidador.**
-
-- **Creador:** convierte una materia en obra, del grano al tejido.
-- **Cuidador:** cuida la tierra, las manos y el material.
-
-Eso se traduce en un color de tierra y fibra, una textura de tejido a mano, fotografía en close shot con luz cálida, y una voz sensorial en francés, cálida en español y experta en inglés.
-
-![Personalidad](docs/slides/personalidad.jpg)
-
----
-
-## Logo
-
-### Símbolo
-Un grano de café trazado en **líneas continuas que se cruzan como un tejido**. Reúne cinco ideas: el grano, la fibra, las manos femeninas que lo sostienen, la naturaleza y la cereza.
-
-El logo original era una imagen rasterizada. Se reconstruyó como **vector real**: curvas Bézier suaves, un grosor de trazo uniforme y granos reflejados con simetría exacta.
-
-![Símbolo](docs/slides/simbolo.jpg)
-
-### Geometría y zona de respeto
-- Sus curvas son continuas y simétricas sobre un eje vertical. Al medirlas, encajan en **círculos de proporción áurea**, cada uno 1,618 veces menor que el anterior.
-- **Zona de respeto:** un margen libre del tamaño de una pepita de café (x) en los cuatro lados. La marca se mide con su propio origen.
-- **Tamaños mínimos:** símbolo de 32 px y wordmark de 140 px.
+![Combinaciones](docs/slides/combinaciones.jpg)
 
 ![Geometría](docs/slides/geometria.jpg)
 
-### Declinaciones
-Wordmark, lockup vertical y lockup horizontal. «Piel Viva» va en **Kapakana**, una caligrafía formal con lazos en la P y la V (Google Fonts, licencia OFL), usada tal como la diseña la fuente, sin retoques. Su tamaño se calibró para que el wordmark tenga el mismo peso visual que el símbolo cuando van juntos.
+![Usos incorrectos](docs/slides/usos-incorrectos.jpg)
 
-![Declinaciones](docs/slides/declinaciones.jpg)
+### Marcas extendidas
+![Sello y perfiles](docs/slides/sello.jpg)
 
----
-
-## Tipografía
-
-| Fuente | Rol | Por qué |
-|---|---|---|
-| **Gestura** (serif) | Titulares y textos | Cortes rectos y terminaciones elegantes, con pesos de Thin a Black. Sostiene el lujo silencioso y da jerarquía sin sumar fuentes. |
-| **Jost** (sans) | Etiquetas y datos | Geométrica y equilibrada, limpia. Hace de contrapeso a la serif y se lee bien en tamaños pequeños. |
-
+### Identidad visual
 ![Tipografía](docs/slides/tipografia.jpg)
 
-### Jerarquía
-
-| Estilo | Fuente | Tamaño (lienzo 1920 px) |
-|---|---|---|
-| Titular | Gestura Display Regular | 96 / 100 px |
-| Subtítulo | Gestura Display Light | 56 / 62 px |
-| Texto | Gestura Text Regular | 30 / 42 px |
-| Etiqueta | Jost Medium, mayúsculas, +30 % | 20 px |
-| Dato | Jost Regular | 26 / 32 px |
-
-![Jerarquía tipográfica](docs/slides/jerarquia-tipografica.jpg)
-
----
-
-## Color
-
-### Paleta con jerarquía
-| Rol | Color | Hex | Presencia |
-|---|---|---|---|
-| Ancla | Bosque | `#232B17` | Siempre presente |
-| Ancla | Crema | `#F1E8C7` | Siempre presente |
-| Soporte | Oliva | `#7C7C40` | Apoyo |
-| Soporte | Caramelo | `#A8764F` | Apoyo |
-| Acento | Burdeos | `#5B1D2A` | Un solo punto por pieza |
-| Foil | Oro | `#D4AF37` | Detalle de lujo, solo sobre fondos oscuros (≥ 6:1) |
-
-![Paleta](docs/slides/paleta.jpg)
-
-### Por qué estos colores
-Cada color sale de una parte del proceso, de la finca al tejido:
-
-- **Bosque:** la sombra del cafetal.
-- **Crema:** la crema del espresso.
-- **Oliva:** la hoja viva del cafeto.
-- **Caramelo:** el tueste y la piel.
-- **Burdeos:** el fruto maduro.
-- **Oro:** el hilo dorado.
-
-![Por qué estos colores](docs/slides/por-que-estos-colores.jpg)
-
-### Cómo crece la paleta
-Cada línea de producto es un **trío** con tres papeles fijos: **oscuro** (el material, va de fondo), **acento** (su historia, en un solo punto) y **claro** (la luz del mismo color). El Ancla (Bosque y Crema) no cambia nunca.
-
-| Línea | Oscuro | Acento | Claro |
-|---|---|---|---|
-| Origen · café verde | Bosque `#232B17` | Burdeos `#5B1D2A` | Crema `#F1E8C7` |
-| Tueste · café tostado | Espresso `#2B1D16` | Cobre `#9D5421` | `#F8E4D4` |
-| Fibra · bio-textil | Burdeos `#5B1D2A` | Rubor `#945461` | Rosa `#FDE3E6` |
-| Reserva · microlotes | Tinta `#1E2B5A` | Azul piedra `#4C6988` | `#DEE8FD` |
-
-![Cómo crece la paleta](docs/slides/como-crece-la-paleta.jpg)
-
----
-
-## Texturas y fotografía
-
-**La textura es el tejido.** Urdimbre, trama, hilos sueltos y nudos vistos de cerca. Todas las texturas llevan los colores de Piel Viva para mantener la estética.
-
-**Dirección fotográfica:**
-- **Close shot:** macro con un solo punto en foco y bokeh cremoso.
-- **Contraste alto:** negros profundos, nunca grises lavados.
-- **Luz cálida:** ámbar, lateral o a contraluz.
-- **Textura de oficio:** tejido a mano, con su imperfección.
-- **La mano:** manos de artesana, sin rostro.
-
-Las fincas, los productores y los lotes concretos se muestran siempre con fotografía real.
-
-![Texturas](docs/slides/texturas.jpg)
-
-**La piel del café.** Del residuo al material: la cáscara convertida en piel, con su grano, su costura y su pátina.
-
-![La piel del café](docs/slides/la-piel-del-cafe.jpg)
-
----
-
-## Aplicaciones
-
-El logo vectorial real (símbolo y wordmark en Kapakana) sobre tres bolsas de café, una por línea: **Caturra de Huila** en verde, **Geisha del Cauca** en crema y **Tolima** en burdeos. El logo cambia de color según el fondo (Crema con tagline en Oro sobre oscuro; Bosque sobre crema) y la paleta crece por línea. Los mockups son imágenes generadas con IA, ilustrativas, a las que se les superpuso el logo.
-
-![Aplicaciones](docs/slides/aplicaciones.jpg)
-
-## Cierre
-
-![Cierre](docs/slides/cierre.jpg)
+![Color](docs/slides/paleta.jpg)
 
 ---
 
