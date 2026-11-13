@@ -4,7 +4,7 @@
 Identidad visual para Piel Viva SAS, importadora de café verde de especialidad colombiano con sede en París.
 
 🔗 **Ver el brandbook:** abre `index.html` o el enlace publicado en Cloudflare Pages.
-Es una historia de principio a fin con un lenguaje editorial: portada que se aleja, paneles con arco que suben como cortina, títulos que aparecen línea a línea con calma y dos escenas fijas donde piezas en arco cruzan el título (texturas y paleta). El prólogo ilumina el texto palabra a palabra al hacer scroll. Solo usa los colores y tipografías de la marca. El contenido tiene un ancho máximo de 1440 px y se adapta a computador y móvil.
+Es una presentación, no una página de scroll: cada diapositiva ocupa una pantalla completa y se cambia con las flechas del teclado, la rueda del ratón, los botones o deslizando en el móvil. Cada una anima su entrada con calma (títulos palabra por palabra, fotos que se abren, piezas que cruzan el título). La tecla F abre la pantalla completa. Solo usa los colores y tipografías de la marca.
 
 ![Portada](docs/slides/portada.jpg)
 
@@ -18,7 +18,7 @@ Es una historia de principio a fin con un lenguaje editorial: portada que se ale
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Experiencia web de scroll narrativo (React, GSAP y Lenis), autocontenida en un solo archivo HTML |
+| **Formato** | Presentación interactiva (React y GSAP), autocontenida en un solo archivo HTML, con 38 diapositivas
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
