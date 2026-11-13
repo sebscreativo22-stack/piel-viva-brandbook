@@ -174,9 +174,13 @@ Las fincas, los productores y los lotes concretos se muestran siempre con fotogr
 
 ---
 
-## Cierre
+## Aplicaciones
 
-Las aplicaciones (packaging y tarjetas) se incorporarán en la siguiente versión, con el logo actualizado.
+El logo vectorial real (símbolo y wordmark en Kapakana) sobre tres bolsas de café, una por línea: **Caturra de Huila** en verde, **Geisha del Cauca** en crema y **Tolima** en burdeos. El logo cambia de color según el fondo (Crema con tagline en Oro sobre oscuro; Bosque sobre crema) y la paleta crece por línea. Los mockups son imágenes generadas con IA, ilustrativas, a las que se les superpuso el logo.
+
+![Aplicaciones](docs/slides/slide-19.jpg)
+
+## Cierre
 
 ![Cierre](docs/slides/slide-18.jpg)
 
