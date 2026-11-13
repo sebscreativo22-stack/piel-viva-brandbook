@@ -4,7 +4,7 @@
 Identidad visual para Piel Viva SAS, importadora de café verde de especialidad colombiano con sede en París.
 
 🔗 **Ver el brandbook:** abre `index.html` o el enlace publicado en Cloudflare Pages.
-Es una presentación, no una página de scroll: cada diapositiva ocupa una pantalla completa y se cambia con las flechas del teclado, la rueda del ratón, los botones o deslizando en el móvil. Cada una anima su entrada con calma (títulos palabra por palabra, fotos que se abren, piezas que cruzan el título). La tecla F abre la pantalla completa. Arriba a la derecha hay un selector de idioma (ES, EN, FR) que recuerda la elección. Se adapta por tramos a cada tamaño de pantalla, del portátil al monitor 4K. Solo usa los colores y tipografías de la marca.
+Es una presentación, no una página de scroll: cada diapositiva ocupa una pantalla completa y se cambia con las flechas del teclado, la rueda del ratón, los botones o deslizando en el móvil. Cada una anima su entrada con calma (títulos palabra por palabra, fotos que se abren, piezas que cruzan el título). La tecla F abre la pantalla completa. Arriba a la derecha hay un selector de idioma (ES, EN, FR) que recuerda la elección. Se adapta por tramos a cada tamaño de pantalla, del portátil al monitor 4K. Incluye una bolsa de packaging en 3D interactiva: se gira y se saca la card de la correa para ver el café. Solo usa los colores y tipografías de la marca.
 
 ![Portada](docs/slides/portada.jpg)
 
@@ -18,7 +18,7 @@ Es una presentación, no una página de scroll: cada diapositiva ocupa una panta
 | **Fundadoras** | Mónica y Cielo, socias al 50 %, entre Colombia y París |
 | **Sector** | Café verde de especialidad (B2B) · futuro café tostado y bio-textil |
 | **Alcance** | Logo vectorial, declinaciones, sistema de color, tipografía, texturas, dirección fotográfica, aplicaciones y brandbook |
-| **Formato** | Presentación interactiva (React y GSAP), autocontenida en un solo archivo HTML, con 34 diapositivas
+| **Formato** | Presentación interactiva (React y GSAP), autocontenida en un solo archivo HTML, con 35 diapositivas
 
 ### El reto
 Piel Viva importa café verde de especialidad colombiano para los tostadores independientes de París. En Francia ya existen otras importadoras de café colombiano, así que la identidad tenía que distinguirse de ellas y funcionar en dos tiempos:
